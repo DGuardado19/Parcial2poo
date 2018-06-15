@@ -5,9 +5,11 @@
  */
 package parcial2poo.AbstratFactory;
 
-import parcial2poo.Demacia.FactoryDemacia;
-import parcial2poo.Demacia.Vacio.FactoryVacio;
-import parcial2poo.Demacia.Noxus.FactoryNoxus;
+import Demacia.*;
+import Noxus.*;
+import Vacio.*;
+
+
 /**
  *
  * @author DGuardado <david.guardado at guardado.org>

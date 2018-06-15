@@ -5,17 +5,24 @@
  */
 package parcial2poo;
 
+import MenuPrincipal.Menusambosjugadores;
+
 /**
  *
  * @author DGuardado <david.guardado at guardado.org>
  */
 public class Parcial2poo {
 
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+    Menusambosjugadores menu = new Menusambosjugadores();
+        menu.menuEleccion();
+        menu.turnos();
     }
     
 }

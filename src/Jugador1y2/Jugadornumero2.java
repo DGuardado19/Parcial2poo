@@ -3,18 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package parcial2poo.AbstratFactory;
+package Jugador1y2;
 
 /**
  *
  * @author DGuardado <david.guardado at guardado.org>
  */
-public interface AbstractRazas {
-
-    public RazasInterface getDemacia(int s);
-
-    public RazasInterface getNoxus(int s);
-
-    public RazasInterface getVacio(int s);
-
+public class Jugadornumero2 {
+    
 }

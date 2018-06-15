@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package parcial2poo.AbstratFactory;
+package VehiculosyTropas;
 
 /**
  *
  * @author DGuardado <david.guardado at guardado.org>
  */
-public class FactoryNoxus {
+public interface AbstractMilicias {
     
 }

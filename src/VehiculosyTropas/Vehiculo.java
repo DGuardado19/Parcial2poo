@@ -3,18 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package parcial2poo.AbstratFactory;
+package VehiculosyTropas;
 
 /**
  *
  * @author DGuardado <david.guardado at guardado.org>
  */
-public interface AbstractRazas {
+public interface Vehiculo {
 
-    public RazasInterface getDemacia(int s);
+    public void crearVehiculos();
 
-    public RazasInterface getNoxus(int s);
-
-    public RazasInterface getVacio(int s);
-
+    public Vehi Instancia();
 }
